@@ -57,6 +57,7 @@ while ($true) {
 ````
 powershell -ExecutionPolicy Bypass -File no_sleep.ps1`
 ````
+ou double clic sur launcher.bat
 ## 2️⃣ Arrêter le script
 ````
 CTRL + C
@@ -92,5 +93,6 @@ Windows 11
 .NET Framework
 
 # ✨ Auteur
+
 
 Développé par [Elkantar](https://github.com/Elkantar) (Thibault Samson)
