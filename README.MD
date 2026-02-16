@@ -71,7 +71,7 @@ Fonctionne uniquement si la session Windows est ouverte
 
 Ne remplace pas un réglage d’alimentation permanent
 
-#🧠 Cas d’usage
+# 🧠 Cas d’usage
 
 Réunions longues
 
@@ -91,6 +91,6 @@ Windows 11
 
 .NET Framework
 
-✨ Auteur
+# ✨ Auteur
 
 Développé par [Elkantar](https://github.com/Elkantar) (Thibault Samson)
